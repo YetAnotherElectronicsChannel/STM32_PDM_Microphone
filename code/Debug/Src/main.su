@@ -1,0 +1,14 @@
+main.c:369:13:MX_GPIO_Init	88	static
+main.c:348:13:MX_DMA_Init	16	static
+main.c:282:13:MX_I2S2_Init	8	static
+main.c:316:13:MX_I2S3_Init	8	static
+main.c:255:13:MX_CRC_Init	8	static
+main.c:90:6:FifoWrite	0	static
+main.c:95:10:FifoRead	0	static
+main.c:188:6:HAL_I2S_TxHalfCpltCallback	0	static
+main.c:192:6:HAL_I2S_TxCpltCallback	0	static
+main.c:196:6:HAL_I2S_RxHalfCpltCallback	0	static
+main.c:200:6:HAL_I2S_RxCpltCallback	0	static
+main.c:204:6:SystemClock_Config	112	static
+main.c:101:5:main	8	static
+main.c:478:6:Error_Handler	0	static
